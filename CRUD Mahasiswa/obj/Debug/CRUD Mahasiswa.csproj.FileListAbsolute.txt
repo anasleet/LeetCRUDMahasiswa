@@ -1,0 +1,10 @@
+C:\Users\anasl\source\repos\CRUD Mahasiswa\CRUD Mahasiswa\obj\Debug\CRUD Mahasiswa.csprojAssemblyReference.cache
+C:\Users\anasl\source\repos\CRUD Mahasiswa\CRUD Mahasiswa\obj\Debug\CRUD_Mahasiswa.Form1.resources
+C:\Users\anasl\source\repos\CRUD Mahasiswa\CRUD Mahasiswa\obj\Debug\CRUD_Mahasiswa.Properties.Resources.resources
+C:\Users\anasl\source\repos\CRUD Mahasiswa\CRUD Mahasiswa\obj\Debug\CRUD Mahasiswa.csproj.GenerateResource.cache
+C:\Users\anasl\source\repos\CRUD Mahasiswa\CRUD Mahasiswa\obj\Debug\CRUD Mahasiswa.csproj.CoreCompileInputs.cache
+C:\Users\anasl\source\repos\CRUD Mahasiswa\CRUD Mahasiswa\bin\Debug\CRUD Mahasiswa.exe.config
+C:\Users\anasl\source\repos\CRUD Mahasiswa\CRUD Mahasiswa\bin\Debug\CRUD Mahasiswa.exe
+C:\Users\anasl\source\repos\CRUD Mahasiswa\CRUD Mahasiswa\bin\Debug\CRUD Mahasiswa.pdb
+C:\Users\anasl\source\repos\CRUD Mahasiswa\CRUD Mahasiswa\obj\Debug\CRUD Mahasiswa.exe
+C:\Users\anasl\source\repos\CRUD Mahasiswa\CRUD Mahasiswa\obj\Debug\CRUD Mahasiswa.pdb
